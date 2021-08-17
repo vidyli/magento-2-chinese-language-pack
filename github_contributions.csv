@@ -391,7 +391,7 @@
 "Card Code Response","卡码响应",module,Magento_Authorizenet
 "CAVV Response","信用卡验证码CAVV 响应",module,Magento_Authorizenet
 "Fraud Filters","欺诈行为过滤器",module,Magento_Authorizenet
-"Place Order","下订单",module,Magento_Authorizenet
+"Place Order","下单",module,Magento_Authorizenet
 "Sorry, but something went wrong. Please contact the seller.","对不起，但出了点问题。请联系卖方。",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net 直接付款",module,Magento_Authorizenet
 "Enabled","启用",module,Magento_Authorizenet
@@ -1102,7 +1102,7 @@
 "Delete","删除",module,Magento_Braintree
 "Credit Card Information","信用卡信息",module,Magento_Braintree
 "What is this?","这是什么？",module,Magento_Braintree
-"Place Order","下订单",module,Magento_Braintree
+"Place Order","下单",module,Magento_Braintree
 "This payment is not available","这笔付款不可用",module,Magento_Braintree
 "MM","月月",module,Magento_Braintree
 "YY","年年",module,Magento_Braintree
@@ -1274,7 +1274,7 @@
 "Credit Card Information","信用卡信息",module,Magento_BraintreeTwo
 "What is this?","这是什么？",module,Magento_BraintreeTwo
 "Save for later use.","保存供以后使用。",module,Magento_BraintreeTwo
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_BraintreeTwo
+"Place Order","下单",module,Magento_BraintreeTwo
 "This payment is not available","这笔付款不可用",module,Magento_BraintreeTwo
 "MM","月",module,Magento_BraintreeTwo
 "YY","年",module,Magento_BraintreeTwo
@@ -2914,7 +2914,7 @@
 "Payment Information","支付信息",module,Magento_Checkout
 "No Payment method available.","没有可用的付款方法。",module,Magento_Checkout
 "You can track your order status by creating an account.","通过创建一个帐户跟踪您的订单状态。",module,Magento_Checkout
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Checkout
+"Place Order","下单",module,Magento_Checkout
 "Forgot an Item?","消除一个商品吗?",module,Magento_Checkout
 "Edit Your Cart","编辑您的购物车",module,Magento_Checkout
 "Ship Here","送货到这里",module,Magento_Checkout
@@ -5092,7 +5092,7 @@
 "Authorize and Capture","Authorize and Capture",module,Magento_Cybersource
 "Risk Factor Q","风险因子 Q",module,Magento_Cybersource
 "Risk Factor V","风险因子 V",module,Magento_Cybersource
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Cybersource
+"Place Order","下单",module,Magento_Cybersource
 "Cybersource","Cybersource",module,Magento_Cybersource
 "Enabled","启动",module,Magento_Cybersource
 "Payment Action","支付行为",module,Magento_Cybersource
@@ -8620,7 +8620,7 @@
 "Edit Payment Information","编辑付款信息",module,Magento_Paypal
 "Items in Your Shopping Cart","您的购物车中的商品",module,Magento_Paypal
 "Edit Shopping Cart","编辑购物车",module,Magento_Paypal
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Paypal
+"Place Order","下单",module,Magento_Paypal
 "Submitting order information...","提交订单信息。。。",module,Magento_Paypal
 "Item","产品",module,Magento_Paypal
 "Price","价格",module,Magento_Paypal

@@ -427,7 +427,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Card Code Response","卡码响应",module,Magento_Authorizenet
 "CAVV Response","信用卡验证码CAVV 响应",module,Magento_Authorizenet
 "Fraud Filters","欺诈行为过滤器",module,Magento_Authorizenet
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Authorizenet
+"Place Order","下单",module,Magento_Authorizenet
 "Sorry, but something went wrong. Please contact the seller.","对不起，但出了点问题。请联系卖方。",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net 直接付款",module,Magento_Authorizenet
 "Enabled","启动",module,Magento_Authorizenet
@@ -1282,7 +1282,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Credit Card Information","信用卡信息",module,Magento_Braintree
 "What is this?","这是什么？",module,Magento_Braintree
 "Save for later use.","保存供以后使用。",module,Magento_Braintree
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Braintree
+"Place Order","下单",module,Magento_Braintree
 "This payment is not available","这笔付款不可用",module,Magento_Braintree
 "MM","月",module,Magento_Braintree
 "YY","年",module,Magento_Braintree
@@ -3330,7 +3330,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Payment Information","支付信息",module,Magento_Checkout
 "No Payment method available.","没有可用的付款方法。",module,Magento_Checkout
 "You can track your order status by creating an account.","通过创建一个帐户跟踪您的订单状态。",module,Magento_Checkout
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Checkout
+"Place Order","下单",module,Magento_Checkout
 "Forgot an Item?","消除一个商品吗?",module,Magento_Checkout
 "Edit Your Cart","编辑您的购物车",module,Magento_Checkout
 "Ship Here","船在这里",module,Magento_Checkout
@@ -4191,7 +4191,7 @@ Your outstanding balance currently totals %outstanding_balance. You are %exceed_
 "Available Credit ","Available Credit ",module,Magento_CompanyCredit
 "The Payment on Account method is not available in the selected currency. Please contact the seller.","The Payment on Account method is not available in the selected currency. Please contact the seller.",module,Magento_CompanyCredit
 "Company credit account will be charged: ","Company credit account will be charged: ",module,Magento_CompanyCredit
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_CompanyCredit
+"Place Order","下单",module,Magento_CompanyCredit
 "Cancel the Order","Cancel the Order",module,Magento_CompanyCredit
 "This is a required field.","这是必填的字段。",module,Magento_CompanyCredit
 "Please enter a valid number in this field.","请在此字段中输入一个有效的数字。",module,Magento_CompanyCredit
@@ -5814,7 +5814,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Authorize and Capture","授权和获取",module,Magento_Cybersource
 "Risk Factor Q","风险因子 Q",module,Magento_Cybersource
 "Risk Factor V","风险因子 V",module,Magento_Cybersource
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Cybersource
+"Place Order","下单",module,Magento_Cybersource
 "Cybersource","Cybersource",module,Magento_Cybersource
 "Enabled","启动",module,Magento_Cybersource
 "Payment Action","支付行为",module,Magento_Cybersource
@@ -8362,7 +8362,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Select Addresses","选择地址",module,Magento_Multishipping
 "Shipping Information","运输方式",module,Magento_Multishipping
 "Billing Information","订单总览",module,Magento_Multishipping
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Multishipping
+"Place Order","下单",module,Magento_Multishipping
 "Order Success","订单成功",module,Magento_Multishipping
 "Order Results","Order Results",module,Magento_Multishipping
 "Default Billing","默认账单",module,Magento_Multishipping
@@ -9082,7 +9082,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Purchase Order Number: %1","采购订单编号: %1",module,Magento_OfflinePayments
 "Make Check payable to","对支付检查",module,Magento_OfflinePayments
 "Send Check to","支票寄到",module,Magento_OfflinePayments
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_OfflinePayments
+"Place Order","下单",module,Magento_OfflinePayments
 "Check / Money Order","支票/汇票",module,Magento_OfflinePayments
 "Enabled","启动",module,Magento_OfflinePayments
 "New Order Status","新订单状态",module,Magento_OfflinePayments
@@ -9242,7 +9242,7 @@ If field is empty default value localhost will be saved.","IPs 的访问列表�
 "Card Verification Number Visual Reference","信用卡验证号码 视觉参考",module,Magento_Payment
 "What is this?","这是什么？",module,Magento_Payment
 "Credit Card Information","信用卡信息",module,Magento_Payment
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Payment
+"Place Order","下单",module,Magento_Payment
 "Forgot an Item?","消除一个商品吗?",module,Magento_Payment
 "Edit Your Cart","编辑您的购物车",module,Magento_Payment
 "Please enter a valid credit card type number.",",module,Magento_Payment
@@ -9665,7 +9665,7 @@ If field is empty default value localhost will be saved.","IPs 的访问列表�
 "Edit Payment Information","编辑付款信息",module,Magento_Paypal
 "Items in Your Shopping Cart","您的购物车中的商品",module,Magento_Paypal
 "Edit Shopping Cart","编辑购物车",module,Magento_Paypal
-"Place Order","对不起，暂无报价可供此订单现在。",module,Magento_Paypal
+"Place Order","下单",module,Magento_Paypal
 "Submitting order information...","提交订单信息。。。",module,Magento_Paypal
 "Item","产品",module,Magento_Paypal
 "Price","价格",module,Magento_Paypal
