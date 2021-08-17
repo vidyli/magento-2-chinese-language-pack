@@ -6322,7 +6322,7 @@
 "The following items have been purchased from your gift registry ""%registry_name"":","从你的礼物注册表""%registry_name""购买了以下各项:",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","你可以登录到您的帐户以查看有关此礼品登记更多详细信息。",module,Magento_GiftRegistry
 "Ship to Recipient Address","运到收件人地址",module,Magento_GiftRegistry
-"Ship Here","船在这里",module,Magento_GiftRegistry
+"Ship Here","选择",module,Magento_GiftRegistry
 "Recipient Address","收件人地址",module,Magento_GiftRegistry
 "Use gift registry shipping address","使用礼品登记的送货地址",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","换礼物注册表项的数目的唯一地方是在礼物注册表信息页面或直接在您的购物车中。",module,Magento_GiftRegistry
