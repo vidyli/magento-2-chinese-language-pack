@@ -2891,7 +2891,7 @@
 "Total:","总数:",module,Magento_Checkout
 "Billing Address:","帐单地址:",module,Magento_Checkout
 "Shipping Address:","收货地址：",module,Magento_Checkout
-"Shipping Method:","送货方法：",module,Magento_Checkout
+"Shipping Method:","配送方式",module,Magento_Checkout
 "Payment Method:","支付方式:",module,Magento_Checkout
 "Date & Time:","日期时间：",module,Magento_Checkout
 "Sign In","登录",module,Magento_Checkout
@@ -2917,7 +2917,7 @@
 "Place Order","下单",module,Magento_Checkout
 "Forgot an Item?","消除一个商品吗?",module,Magento_Checkout
 "Edit Your Cart","编辑您的购物车",module,Magento_Checkout
-"Ship Here","送货到这里",module,Magento_Checkout
+"Ship Here","选择",module,Magento_Checkout
 "Ship To:","送货到:",module,Magento_Checkout
 "edit","编辑",module,Magento_Checkout
 "Order Summary","订单汇总",module,Magento_Checkout
@@ -10613,7 +10613,7 @@
 "Sold to:","卖给:",module,Magento_Sales
 "Ship to:","送货地址:",module,Magento_Sales
 "Payment Method:","支付方式:",module,Magento_Sales
-"Shipping Method:","送货方法：",module,Magento_Sales
+"Shipping Method:","配送方式",module,Magento_Sales
 "Total Shipping Charges","总运费",module,Magento_Sales
 "Title","标题",module,Magento_Sales
 "Number","数字",module,Magento_Sales
