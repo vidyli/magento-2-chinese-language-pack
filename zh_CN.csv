@@ -1464,7 +1464,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Billing Address","账单地址",module,Magento_Braintree
 "First Name","名",module,Magento_Braintree
 "Last Name","姓",module,Magento_Braintree
-"Company","地址",module,Magento_Braintree
+"Company","公司",module,Magento_Braintree
 "Address","地址",module,Magento_Braintree
 "City","城市",module,Magento_Braintree
 "State/Province","州/省",module,Magento_Braintree
@@ -3919,7 +3919,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Role Permissions","Role Permissions",module,Magento_Company
 "Save Role","保存角色",module,Magento_Company
 "Add New User","添加新用户",module,Magento_Company
-"Company","地址",module,Magento_Company
+"Company","公司",module,Magento_Company
 "Create an Account","创建帐户",module,Magento_Company
 "Change","更改",module,Magento_Company
 "This action will replace your Company Admin.","This action will replace your Company Admin.",module,Magento_Company
@@ -5086,7 +5086,7 @@ new products will be created. Use this step to customize images and price for yo
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒钟后将转到我们的主页。",module,Magento_Customer
 "New Customers","请在该字段中输入大于或等于1的数字",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","创建帐户有很多好处: 更快地查阅，保持多个地址，跟踪订单和更多。",module,Magento_Customer
-"Company","地址",module,Magento_Customer
+"Company","公司",module,Magento_Customer
 "Fax","传真",module,Magento_Customer
 "Gender","性别",module,Magento_Customer
 "Name","名字",module,Magento_Customer
@@ -5556,7 +5556,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Personal Information","个人信息",module,Magento_CustomerCustomAttributes
 "Sign Up for Newsletter","订阅资讯",module,Magento_CustomerCustomAttributes
 "Address Information","地址信息",module,Magento_CustomerCustomAttributes
-"Company","地址",module,Magento_CustomerCustomAttributes
+"Company","公司",module,Magento_CustomerCustomAttributes
 "Phone Number","电话号码",module,Magento_CustomerCustomAttributes
 "Sign-in Information","登录信息",module,Magento_CustomerCustomAttributes
 "Password","密码",module,Magento_CustomerCustomAttributes
@@ -7147,7 +7147,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Date Format","日期格式",module,Magento_GiftRegistry
 "Is Default","为默认值",module,Magento_GiftRegistry
 "Select a shipping address from your address book or enter a new address.","从您的通讯簿中选择送货地址或输入新的地址。",module,Magento_GiftRegistry
-"Company","地址",module,Magento_GiftRegistry
+"Company","公司",module,Magento_GiftRegistry
 "Address","地址",module,Magento_GiftRegistry
 "Street Address","街道地址",module,Magento_GiftRegistry
 "Street Address %1","街道地址 %1",module,Magento_GiftRegistry
@@ -8683,7 +8683,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Created","创建",module,Magento_NegotiableQuote
 "rate","rate",module,Magento_NegotiableQuote
 "Expires","到期",module,Magento_NegotiableQuote
-"Company","地址",module,Magento_NegotiableQuote
+"Company","公司",module,Magento_NegotiableQuote
 "Company Admin Email","Company Admin Email",module,Magento_NegotiableQuote
 "Seller","Seller",module,Magento_NegotiableQuote
 "Store","商店",module,Magento_NegotiableQuote
@@ -12207,7 +12207,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Could not save a Creditmemo, see error log for details","无法保存发票，请参阅错误日志以获取详细信息",module,Magento_Sales
 "We cannot determine the field name.","我们不能确定字段名称。",module,Magento_Sales
 "City","城市",module,Magento_Sales
-"Company","地址",module,Magento_Sales
+"Company","公司",module,Magento_Sales
 "Country","国家",module,Magento_Sales
 "Email","邮箱",module,Magento_Sales
 "First Name","名",module,Magento_Sales
@@ -13400,7 +13400,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Assign Catalog","Assign Catalog",module,Magento_SharedCatalog
 "Unassign Catalog","Unassign Catalog",module,Magento_SharedCatalog
 "ID","编号ID",module,Magento_SharedCatalog
-"Company","地址",module,Magento_SharedCatalog
+"Company","公司",module,Magento_SharedCatalog
 "Country","国家",module,Magento_SharedCatalog
 "State/Province","州/省",module,Magento_SharedCatalog
 "Assigned","分配",module,Magento_SharedCatalog

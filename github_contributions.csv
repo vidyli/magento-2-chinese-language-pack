@@ -4507,7 +4507,7 @@
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒钟后将转到我们的主页。",module,Magento_Customer
 "New Customers","请在该字段中输入大于或等于1的数字",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","创建帐户有很多好处: 更快地查阅，保持多个地址，跟踪订单和更多。",module,Magento_Customer
-"Company","地址",module,Magento_Customer
+"Company","公司",module,Magento_Customer
 "Fax","传真",module,Magento_Customer
 "Gender","性别",module,Magento_Customer
 "Name","名字",module,Magento_Customer
@@ -4836,7 +4836,7 @@
 "Please confirm site switching. All data that hasn't been saved will be lost.","请确认站点切换。尚未保存的所有数据将都会丢失。",module,Magento_CustomerCustomAttributes
 "* Required Fields","*必要字段",module,Magento_CustomerCustomAttributes
 "Contact Information","联系信息",module,Magento_CustomerCustomAttributes
-"Company","地址",module,Magento_CustomerCustomAttributes
+"Company","公司",module,Magento_CustomerCustomAttributes
 "Phone Number","电话号码",module,Magento_CustomerCustomAttributes
 "Fax","传真",module,Magento_CustomerCustomAttributes
 "Address","地址",module,Magento_CustomerCustomAttributes
@@ -10667,7 +10667,7 @@
 "Could not save a Creditmemo, see error log for details","无法保存发票，请参阅错误日志以获取详细信息",module,Magento_Sales
 "We cannot determine the field name.","我们不能确定字段名称。",module,Magento_Sales
 "City","城市",module,Magento_Sales
-"Company","地址",module,Magento_Sales
+"Company","公司",module,Magento_Sales
 "Country","国家",module,Magento_Sales
 "Email","邮箱",module,Magento_Sales
 "First Name","名",module,Magento_Sales
