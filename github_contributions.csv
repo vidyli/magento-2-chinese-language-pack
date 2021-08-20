@@ -2928,7 +2928,7 @@
 "Provided Zip/Postal Code seems to be invalid.","提供的邮政编码似乎无效。",module,Magento_Checkout
 "Example:","示例︰",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","如果你觉的是正确的，可以忽略此通知。",module,Magento_Checkout
-"New Address","从您的地址簿选择发货地址，或输入新地址。",module,Magento_Checkout
+"New Address","添加新地址。",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","你确定你想要从购物车中删除此项目？",module,Magento_Checkout
 "Review & Payments","审查及付款",module,Magento_Checkout
 "Select a new payment method","选择支付方式",module,Magento_Checkout
@@ -4505,7 +4505,7 @@
 "Create an Account","创建帐户",module,Magento_Customer
 "Set a New Password","设置新的密码",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","你已退出，在 5 秒钟后将转到我们的主页。",module,Magento_Customer
-"New Customers","请在该字段中输入大于或等于1的数字",module,Magento_Customer
+"New Customers","注册",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","创建帐户有很多好处: 更快地查阅，保持多个地址，跟踪订单和更多。",module,Magento_Customer
 "Company","公司",module,Magento_Customer
 "Fax","传真",module,Magento_Customer
@@ -6113,7 +6113,7 @@
 "[WEBSITE]","[WEBSITE]",module,Magento_GiftRegistry
 "[STORE VIEW]","[STORE VIEW]",module,Magento_GiftRegistry
 "None","无",module,Magento_GiftRegistry
-"New Address","从您的地址簿选择发货地址，或输入新地址。",module,Magento_GiftRegistry
+"New Address","添加新地址。",module,Magento_GiftRegistry
 "Edit Gift Registry","编辑注册表的礼物",module,Magento_GiftRegistry
 "Create Gift Registry","创建礼品登记",module,Magento_GiftRegistry
 "State/Province","州/省",module,Magento_GiftRegistry
