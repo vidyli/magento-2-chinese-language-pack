@@ -11102,7 +11102,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "My Product Reviews","我的产品评论",module,Magento_Review
 "Cannot initialize product","无法初始化产品",module,Magento_Review
 "You submitted your review for moderation.",",module,Magento_Review
-你提交了你的审核报告。 ",module,Magento_Review
+"你提交了你的审核报告。",module,Magento_Review
 "We can't post your review right now.","我们现在不能发表您的评论。",module,Magento_Review
 "Storage key was not set","未设置存储键",module,Magento_Review
 "Approved","已批准",module,Magento_Review
