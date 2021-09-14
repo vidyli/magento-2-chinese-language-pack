@@ -8058,7 +8058,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Forgot Password","忘记密码?",module,Magento_Logging
 "Global Search","全局搜索",module,Magento_Logging
 "Apply","应用",module,Magento_Logging
-"Reorder","获取",module,Magento_Logging
+"Reorder","再次购买",module,Magento_Logging
 "Print","打印",module,Magento_Logging
 "Email","邮箱",module,Magento_Logging
 "Run","跑",module,Magento_Logging
@@ -11101,8 +11101,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You saved the rating.","你保存的评级。",module,Magento_Review
 "My Product Reviews","我的产品评论",module,Magento_Review
 "Cannot initialize product","无法初始化产品",module,Magento_Review
-"You submitted your review for moderation.",",module,Magento_Review
-"你提交了你的审核报告。",module,Magento_Review
+"You submitted your review for moderation.","你提交了你的审核报告。",module,Magento_Review
 "We can't post your review right now.","我们现在不能发表您的评论。",module,Magento_Review
 "Storage key was not set","未设置存储键",module,Magento_Review
 "Approved","已批准",module,Magento_Review
@@ -11895,7 +11894,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Invoice and Ship","发票和运输",module,Magento_Sales
 "Invoice","发货",module,Magento_Sales
 "Ship","无可用发货信息",module,Magento_Sales
-"Reorder","获取",module,Magento_Sales
+"Reorder","再次购买",module,Magento_Sales
 "Order # %1 %2 | %3","订单 # %1 %2 |%3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","此订单包含 (%1) 项目，因此不能通过管理界面进行编辑。如果你想要继续编辑，(%2) 项目将被删除，订单将被取消，将放置一个新的秩序。",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","是否确定？此订单将被取消，将会创建一个新订单。",module,Magento_Sales
@@ -12398,7 +12397,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "View Order","查看订单",module,Magento_Sales
 "You have placed no orders.","你还没有订单。",module,Magento_Sales
 "No shipping information available","没有可用的航运信息",module,Magento_Sales
-"Print Order","打印顺序",module,Magento_Sales
+"Print Order","打印订单",module,Magento_Sales
 "Print All Invoices","打印所有发票",module,Magento_Sales
 "Invoice #","发票号码",module,Magento_Sales
 "Print Invoice","打印发票",module,Magento_Sales
