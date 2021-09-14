@@ -2002,7 +2002,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Must be category model instance or its id.","必须是类别模型实例或其 id。",module,Magento_Catalog
 "The attribute model is not defined.","未定义的属性模型。",module,Magento_Catalog
 "Category","类别",module,Magento_Catalog
-"%1 - %2","1%-%2",module,Magento_Catalog
+"%1 - %2","%1 - %2",module,Magento_Catalog
 "%1 was not found in algorithms","算法中找不到 %1",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 不延长 \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 并不延伸 \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
@@ -3044,7 +3044,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 ". "" which is inconsistent with state of scope resolver""",".""哪个是符合范围解析器的状态""",module,Magento_CatalogSearch
 "Category","类别",module,Magento_CatalogSearch
 "%1 and above","%1 及以上",module,Magento_CatalogSearch
-"%1 - %2","1%-%2",module,Magento_CatalogSearch
+"%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","抱歉，出问题了，你可以在错误日志中找到更多的信息。",module,Magento_CatalogSearch
 "Bucket does not exist","斗不存在",module,Magento_CatalogSearch
 "Product","产品",module,Magento_CatalogSearch

@@ -1780,7 +1780,7 @@
 "Must be category model instance or its id.","必须是类别模型实例或其 id。",module,Magento_Catalog
 "The attribute model is not defined.","未定义的属性模型。",module,Magento_Catalog
 "Category","类别",module,Magento_Catalog
-"%1 - %2","1%-%2",module,Magento_Catalog
+"%1 - %2","%1 - %2",module,Magento_Catalog
 "The %1 value wasn't found in the algorithms.","The %1 value wasn't found in the algorithms.",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 不延长 \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 并不延伸 \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
@@ -2651,7 +2651,7 @@
 ". "" which is inconsistent with state of scope resolver""",".""哪个是符合范围解析器的状态""",module,Magento_CatalogSearch
 "Category","类别",module,Magento_CatalogSearch
 "%1 and above","%1 及以上",module,Magento_CatalogSearch
-"%1 - %2","1%-%2",module,Magento_CatalogSearch
+"%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_CatalogSearch
 "The bucket doesn't exist.","The bucket doesn't exist.",module,Magento_CatalogSearch
 "Product","产品",module,Magento_CatalogSearch
