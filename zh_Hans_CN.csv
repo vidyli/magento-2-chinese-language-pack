@@ -16412,3 +16412,401 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The widget %1 is no longer available. Select a different widget.","小部件 %1 不再可用。选择一个不同的小部件。",lib,web
 "First character must be letter.","第一个字符必须是字母。",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","密码不能与电子邮件地址相同。请创建新密码, 然后重试。",lib,web
+Delete Customer,删除客户
+Back,返回
+Delete Company,删除公司
+Reset,重设
+Save,保存
+Save & Close,保存并关闭
+Companies,公司
+Add New Company,添加新公司
+(me),（我）
+Company Name:,公司名称：
+Company Legal Name:,公司法定名称：
+Company Email:,公司电子邮件：
+VAT/TAX ID:,增值税/税号：
+Re-seller ID:,经销商ID：
+Street Address:,街道地址：
+City:,城市:
+Country:,国家:
+State/Province:,州/省：
+ZIP/Postal Code:,邮政编码：
+Phone Number:,电话号码：
+Job Title:,职位名称：
+Email Address:,电子邮件地址：
+Prefix:,前缀：
+First Name:,名字：
+Middle Name/Initial:,中间名/姓名首字母：
+Last Name:,姓氏：
+Suffix:,后缀：
+Gender:,性别：
+Duplicated,复制的
+Company Structure,公司结构
+Page not found.,找不到页面
+Something went wrong.,似乎出了点小问题……
+New Company,新公司
+Thank you! We're reviewing your request and will contact you soon,谢谢！我们正在审核您的请求，并将尽快与您联系
+An error occurred on the server. Your changes have not been saved.,服务器发生错误。您的更改尚未保存。
+Incorrect CAPTCHA,验证码不正确
+Create New Company,创建新公司
+A total of %1 record(s) were updated.,总共更新了%1条记录。
+Something went wrong. Please try again later.,似乎出了点小问题……请稍后再试
+"Invalid value of ""%value"" provided for the email field.",为电子邮件字段提供的“%value”值无效。
+"Invalid value ""%value"" given for the website ID field.",为网站ID字段提供的值“%value”无效。
+You have deleted company %companyName.,您已删除公司%CompanyName。
+The company no longer exists.,公司不存在。
+The requested company is not found,找不到请求的公司
+Please correct the data sent.,请更正发送的数据。
+can not be saved,无法保存
+A total of %1 record(s) were deleted.,总共删除了%1条记录。
+Could not save company,无法保存公司
+You have saved company %companyName.,您已保存公司%CompanyName。
+You have created company %companyName.,您已创建公司%CompanyName。
+You have accepted the invitation to the company,您已接受该公司的邀请。
+Error occurred when trying to accept the invitation. Please try again later.,尝试接受邀请时出错。请稍后再试。
+"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.",系统中已存在具有此电子邮件地址的用户。如果继续，该用户将关联至您的公司。
+A user with this email address is already a member of your company.,具有此电子邮件地址的用户已是贵公司的成员。
+A user with this email address already exists in the system. Enter a different email address to create this user.,系统中已存在具有此电子邮件地址的用户。输入新的电子邮件地址，以创建此用户。
+You are not allowed to do this.,您没有该操作的权限。
+Cannot create the customer.,无法创建客户。
+The customer was successfully created.,已成功创建客户。
+You cannot delete yourself.,您无法删除自己。
+Cannot delete this user.,无法删除此用户。
+%1's account has been set to Inactive.,%1的帐户已设置为非活动状态。
+The customer was successfully deleted.,已成功删除客户。
+The customer was successfully updated.,已成功更新客户。
+Company Profile,公司介绍
+The changes you made on the company profile have been successfully saved.,您对公司介绍所做的更改已成功保存。
+You must fill in all required fields before you can continue.,您必须填写所有必填字段才能继续。
+Bad Request,错误请求
+You have deleted role %companyRoleName.,您已删除角色%CompanyRoleName。
+Add New Role,添加新角色
+Edit Role,编辑角色
+Roles and Permissions,角色和权限
+The tree retrieved successfully.,检索成功。
+The item was successfully moved.,已成功移动该项。
+The team was successfully deleted.,已成功删除团队。
+The team was successfully updated.,已成功更新团队。
+The team was successfully created.,团队创建成功。
+Company Users,公司用户
+A customer with the same email already assigned to company.,已将具有相同电子邮件的客户分配给公司。
+"Invitation was sent to an existing customer, they will be added to your organization once they accept the invitation.",邀请已发送给现有客户，一旦接受邀请，他们将被添加到您的组织中。
+Active,活动状态
+Pending Approval,待批准
+Rejected,已拒绝
+Blocked,已冻结
+The company admin cannot be moved to a different location in the company structure.,公司管理员无法被移动到公司结构中的其它位置。
+A user or a team cannot be moved under itself.,用户或团队无法被移动到其自身下。
+A user or a team cannot be moved under its child user or team.,用户或团队无法被移动到其子用户或子团队下。
+The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.,该上级ID属于其它公司。指定的实体（团队或用户）及其上级实体必须属于同一公司。
+Unable to move customer structure.,无法移动客户结构。
+Cannot delete company with id %1,无法删除ID为%1的公司
+No company admin email is specified in request.,请求中未指定公司管理员电子邮件。
+No company admin website ID is specified in request.,请求中未指定公司管理员网站ID。
+The Store View selected for sending Welcome email from is not related to the customer's associated website.,选择用于发送欢迎电子邮件的商店视图与客户的关联网站无关。
+No such entity with id = %idValue,没有ID=%IdValue的此类实体
+Already assigned to a company,已分配给公司
+Could not assign to the company,无法分配给公司
+Invalid code provided,提供的代码无效
+The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.,用户%1是公司管理员，无法设置为非活动状态。您必须先设置另一位用户为公司管理员。
+You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.,您无法更新请求的属性。行ID：%FieldName=%FieldValue。
+Invalid attribute value. Cannot change company for a company admin.,无效属性值。无法为公司管理员更改公司。
+Company admin,公司管理员
+Company user,公司用户
+Individual user,个人用户
+Inactive,不活动的
+"Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".",无法为资源设置“允许”，因为其父资源设置为“拒绝”。
+There was an error saving custom attributes.,保存自定义属性时出错。
+"Invalid value of ""%value"" provided for the %fieldName field.",为%FieldName字段提供的“%Value”值无效。
+"""%fieldName"" is required. Enter and try again.",需要“%FieldName”。输入并重试。
+No such entity with %fieldName = %fieldValue,没有%FieldName=%FieldValue的此类实体
+This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.,无法删除此角色，因为已为其分配了用户。将用户重新分配到另一个角色以继续。
+You cannot delete a role when it is the only role in the company. You must create another role before deleting this role.,您无法删除公司中唯一的角色。在删除此角色之前，您必须创建另一个角色。
+User role with this name already exists. Enter a different name to save this role.,具有此名称的用户角色已存在。请输入其它名称以保存此角色。
+Cannot delete role with id %1,无法删除ID为%1的角色
+Type %1 is not an instance of %2,类型%1不是%2的实例
+"The selected user is inactive. To continue, select another user or activate the current user.",所选用户处于非活动状态。若要继续，请选择其他用户或激活当前用户。
+This customer is a user of a different company. Enter a different email address to continue.,此客户是其它公司的用户。请输入其它电子邮件地址以继续。
+Company with this email address already exists in the system. Enter a different email address to continue.,系统中已存在具有此电子邮件地址的公司。请输入其它电子邮件地址以继续。
+Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.,无效属性值。只有当公司状态更改为“已拒绝”时，才能更改拒绝日期和时间以及拒绝原因。
+Invalid attribute value. Rejected date&time and Rejected Reason can not be null when a company status is changed to Rejected.,无效属性值。当公司状态更改为“已拒绝”时，拒绝日期和时间以及拒绝原因不能为空。
+Could not save company: %1,无法保存公司：%1
+Cannot delete structure with id %1,无法删除ID为%1的结构
+Could not create team,无法创建团队
+This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.,此团队关联有子用户或子团队，因此无法删除。请先重新关联子用户或子团队。
+Could not update team,无法更新团队
+Cannot delete team with id %1,无法删除ID为%1的团队
+You cannot assign a different role to a company admin.,您不能为公司管理员分配其他角色。
+You cannot assign multiple roles to a user.,您不能为一个用户分配多个角色。
+Invalid login or password.,登录名或密码无效。
+This account is locked.,此帐户已锁定。
+"Your account is not yet approved. If you have questions, please contact the seller.",您的帐户尚未获得批准。如有疑问，请联系商家。
+Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.,无法删除公司管理员。请尝试删除其他客户。
+Something went wrong,出了点小问题
+This customer company account is blocked and customer cannot place orders.,该客户公司帐户被冻结，客户无法下单。
+The consumer isn't authorized to access resource.,该客户未被授权访问资源。
+ - Duplicated, -复制的
+message,信息
+Exception message,异常信息
+test,试验
+phrase,短语
+exception,例外
+Localized Exception.,本地化异常。
+Error message,错误信息
+No such entity.,没有这样的实体。
+error message,错误信息
+Could not save role,无法保存角色
+Cannot delete team,无法删除团队
+Role Name,角色名称
+Role Name 15,角色名称15
+Edit,编辑
+Delete,删除
+Duplicate,复制
+Company Name,公司名称
+Customer Type:,客户类型：
+Company:,公司:
+User Role,用户角色
+User Roles,用户角色
+Company Information,公司信息
+Company Legal Name,公司法定名称
+Company Email,公司电子邮件
+VAT/TAX ID,增值税/税号
+Re-seller ID,经销商ID
+Legal Address,法定地址
+Street Address,街道地址
+City,市
+Country,国家
+State/Province,省
+"Please select a region, state or province.",请选择地区，省份。
+ZIP/Postal Code,邮政编码
+Phone Number,电话号码
+Company Administrator,公司管理员
+Job Title,职位名称
+Email,电子邮件
+Submit,提交
+New Company Account,新公司帐户
+"If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.",如果您代表公司，您将会想要使用我们的公司帐户区块。通过创建公司帐户，所有公司成员都可以访问B2B功能，如报价、公司用户管理、快速下单等。
+Create a Company Account,创建公司帐户
+Business Structure,业务结构
+Expand All,全部展开
+Collapse All,全部折叠
+Add User,添加用户
+Add Team,添加团队
+Edit Selected,编辑选定项
+Delete Selected,删除选定项
+Error,错误
+Status,状态
+Team Title,团队名称
+Description,描述
+You don't have a company account yet.,您还没有公司帐户。
+Account Information,账户信息
+VAT/TAX ID: ,增值税/税号：
+Re-seller ID: ,经销商ID：
+You have no other address entries in your address book.,您的地址簿中没有其它地址。
+T: %1,T: %1
+Contacts,联系人
+Sales Representative,销售代表
+Role Information,角色信息
+Role Permissions,角色权限
+Save Role,保存角色
+Add New User,添加新用户
+Company,公司
+Create an Account,创建帐户
+Change,修改
+This action will replace your Company Admin.,此操作将替换您的公司管理员。
+* Your latest changes on the company profile have not been saved yet.,*您对公司简介的更新尚未保存。
+Assigned to %company_name as Company Admin,分配给%COMPANY_NAME作为公司管理员
+"Dear %name,",尊敬的%Name：
+"You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.",您已被指定为<a href=“”%customer_URL“”>%company_name</a>的公司管理员。
+"When you sign in to your account, you can:",登录您的帐户后，您可以：
+* Create and manage company users and teams,*创建和管理公司用户和团队
+* Manage user permissions for the store,*管理用户权限
+* Create and manage company shipping and billing addresses,*创建和管理公司送货地址和帐单地址
+You've been linked to a company,您已关联至一家公司。
+"You've been added to the <a href=%customer_url>%company_name</a> as the company member.
+    Once you enter your account,
+    the company's shared resources will be available for you.","您已被添加至<a href=%customer_URL>%company_name</a>成为该公司成员。
+    登录帐户后，
+    即可访问该公司的信息资源。"
+"If this is a mistake,
+    please contact the company Admin at %company_admin_email.","如果有误，
+    请通过%COMPANY_ADMIN_EMAIL联系公司管理员。"
+A company has invited you to join,有一家公司邀请您加入
+Dear %firstname,尊敬的%FirstName
+"%admin has invited you to join %company, click the link below to accept",%Admin已邀请您加入%Company，请单击下面的链接接受邀请
+Your account is now active,您的帐户现已激活
+"Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.",您的帐户现已激活。您可以使用它登录<a href=“”%customer_URL“”>网站</a>。
+Your account is locked,您的帐户已锁定
+Your account is no longer active. You will not be able to use it for login.,您的帐户不再有效。您将无法使用它进行登录。
+"If this is a mistake, please contact the seller.",如果有误，请联系商家。
+Your account set inactive,您的帐户设置无效
+"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.",您的帐户已设置为非活动状态，目前无法访问公司帐户。如果您认为有误，请联系您的经理了解详情。
+New company registration request,新公司注册请求
+A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.,客户%Customer已提交公司注册请求。在您批准或拒绝该公司之前，该帐户将被暂时锁定。
+Company: %company,公司：%公司
+Your company account is active,您的公司帐户处于活动状态
+"Your company registration request (for the <strong>%company_name</strong>)
+    has been approved and you have been set as the Company Admin.
+    You can now create and manage your company structure.
+    Your company members are able to request quotes, create requisition lists,
+    and use other B2B features.","您的公司注册请求（针对<strong>%COMPANY_NAME</strong>）
+    已被批准，同时，您被设置为公司管理员。
+    现在可以开始创建和管理公司结构。
+    您的公司成员可以请求报价、创建申请列表
+    并使用其它B2B功能。"
+"The status of your company <strong>%company_name</strong>
+    is now <strong>Active</strong>.
+    Once you login, you will be able to place orders on behalf of your company
+    and use other B2B features.","您公司<strong>%COMPANY_NAME</strong>
+    现在<strong>处于活动状态</strong>。
+    登录后，您将能够代表您的公司下订单
+    以及使用其它B2B功能。"
+You’re no longer Company Admin,您不再是公司管理员
+"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.",您的帐户类型已从公司管理员更改为普通用户帐户。如果您认为有误，请联系您的经理了解详情。
+Assigned to %company_name as Sales Representative,作为销售代表分配给%COMPANY_NAME
+"%name,",%名称，
+You have been assigned to %company_name as the Sales Representative.,您已被指派为%COMPANY_NAME的销售代表。
+"When you sign in to your account, you will be able to:",登录到您的帐户后，您将能够：
+* View and manage company quotes in Admin Panel,*在管理面板中查看和管理公司报价
+* View and edit company profile in Admin Panel,*在管理面板中查看和编辑公司简介
+Your company account blocked,您的公司帐户已被冻结
+"Your company account <strong>%company_name</strong> has been blocked.
+    Your company members can continue using the website,
+    but they will not be able to place orders.","您的公司帐户<strong>%COMPANY_NAME</strong>已被冻结。
+    贵公司成员可以继续使用本网站，
+    但他们将无法下订单。"
+"If you have any questions, please contact the seller.",如果您有任何问题，请与商家联系。
+Your company account suspended,您的公司帐户已暂停
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.",您的公司帐户<STRONG>%COMPANY_NAME</STRONG>已暂停，等待商家批准。
+Your company registration request rejected,您的公司注册请求被拒绝
+"Your company registration request (for the <strong>%company_name</strong>) has been rejected
+    for the following reason:","您的公司注册请求（针对<strong>%COMPANY_NAME</strong>）已被拒绝
+    原因如下："
+Show Active Users,显示活动用户
+Show Inactive Users,显示非活动用户
+Show All Users,显示所有用户
+"This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.",此操作无法撤销。是否确认删除此公司？删除公司后，所有公司成员都将被设置为非活动账户。
+Delete a Company?,删除公司？
+Cancel,取消
+Are you sure you want to do this?,您确定要这么做吗？
+Sorry! You cannot delete this user: The user is the company admin.,抱歉！您不能删除该用户：该用户是公司管理员。
+Cannot Delete the Company Admin,无法删除公司管理员
+Done,完成
+No results,无结果
+options,选项
+Proceed,进行
+Change Company Status?,是否更改公司状态？
+Change status,更改状态
+Popup title,弹出标题
+Cannot delete the user,无法删除用户
+This user cannot be deleted because he/she is a company admin.,无法删除此用户，因为他/她是公司管理员。
+Edit User,编辑用户
+Cannot Delete User,无法删除用户
+Delete this user?,是否删除此用户？
+This action cannot be undone. Are you sure you want to delete this user?,此操作无法撤消。是否确认删除此用户？
+Edit Team,编辑团队
+Cannot Delete This Team,无法删除此团队
+Delete this team?,是否删除此团队？
+This action cannot be undone. Are you sure you want to delete this team?,此操作无法撤消。是否确认删除此团队？
+Delete This Role?,是否删除此角色？
+This action cannot be undone. Are you sure you want to delete this role?,此操作无法撤消。是否确认删除此角色？
+Cannot Delete Role,无法删除角色
+Cannot Delete Customer,无法删除客户
+Set as Inactive,设置为非活动状态
+Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set as Inactive to temporarily lock the user. The user’s content is still available to parent users.,选择“删除”以永久删除该帐户和内容。用户的订单和报价仍对商家可见。选择“设置为非活动状态”可暂时锁定用户。该用户的内容仍可供上级用户使用。
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",系统中已存在具有此电子邮件的用户。请输入其它电子邮件地址以继续。如果您想使用当前帐户作为管理员帐户，请与商家联系。
+Manage Companies,管理公司
+Company Configuration Section,公司配置部分
+Enable Company,启用公司
+Company Configuration,公司配置
+General,常用
+Allow Company Registration from the Storefront,允许在商城页面注册公司
+Email Options - Company Registration,电子邮件选项-公司注册
+Company Registration Email Recipient,公司注册电子邮件收件人
+Send Company Registration Email Copy To,将公司注册电子邮件副本发送至
+Comma-separated,逗号分隔
+Send Email Copy Method,发送电子邮件复制的方法
+Default Company Registration Email,默认公司注册电子邮件
+Customer-Related Emails,与客户相关的电子邮件
+Default 'Sales Rep Assigned' Email,默认“已分配销售代表”电子邮件
+This email is sent to the company's Sales Rep and the Company Admin.,此电子邮件将发送给公司的销售代表和公司管理员。
+Default 'Assign Company to Customer' Email,默认“将公司分配给客户”电子邮件
+This email is sent to the customer only.,此电子邮件仅发送给客户。
+Default 'Assign Company Admin' Email,默认“分配公司管理员”电子邮件
+Default 'Company Admin Inactive' Email,默认“公司管理员非活动状态”电子邮件
+Default 'Company Admin Changed To Member' Email,默认“公司管理员已更改为成员”电子邮件
+Default 'Customer Status Active' Email,默认“客户状态活动”电子邮件
+Default 'Customer Status Inactive' Email,默认“客户状态非活动”电子邮件
+Company Status Change,公司状态变更
+Send Company Status Change Email Copy To,将更改公司状态电子邮件副本发送至
+Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.,逗号分隔。收件人将收到一份默认仅发送给公司管理员的电子邮件副本。
+"Default 'Company Status Change To Active 1"" Email",默认“公司状态更改为活动1”电子邮件
+This email is sent when company status changes from Pending Approval to Active.,此电子邮件将在公司状态从“待批准”更改为“活动”时发送。
+"Default 'Company Status Change To Active 2"" Email","默认“公司状态更改为活动2”""电子邮件"
+This email is sent when company status changes from Rejected or Blocked to Active.,当公司状态从“已拒绝”或“被冻结”更改为“活动”时，将发送此电子邮件。
+"Default 'Company Status Change To Rejected"" Email",默认“公司状态更改为已拒绝”电子邮件
+This email is sent when company status changes to Rejected.,此电子邮件在公司状态更改为“已拒绝”时发送。
+"Default 'Company Status Change To Blocked"" Email",默认“公司状态更改为被冻结”电子邮件
+This email is sent when company status changes Blocked.,此电子邮件在公司状态更改被冻结时发送。
+"Default 'Company Status Change To Pending Approval"" Email",默认“公司状态更改为待批准”电子邮件
+This email is sent when company status changes to Pending Approval.,此电子邮件在公司状态更改为“待批准”时发送。
+All,全部
+Account Information (View),帐户信息（视图）
+Legal Address (View),法定地址（视图）
+Contacts (View),联系人（视图）
+Company User Management,公司用户管理
+View roles and permissions,查看角色和权限
+Manage roles and permissions,管理角色和权限
+View users and teams,查看用户和团队
+Manage users and teams,管理用户和团队
+Sales,销售
+Allow Checkout,允许结账
+Use Pay On Account method,使用按账户付款方式
+View orders,查看订单
+View orders of subordinate users,查看下级用户的订单
+Are you sure you want to set the selected companies as active?,您确定要将所选公司设置为活动状态吗？
+Set a Company as Active,将公司设置为活动状态
+Set Active,设置为活动状态
+Are you sure you want to block the selected companies?,是否确认冻结所选公司？
+Block a Company,冻结一家公司
+Block,冻结
+"This action cannot be undone. Are you sure you want to delete the selected companies? After the company is deleted, all the company members will be set to Inactive.",此操作无法撤消。您确定要删除所选公司吗？删除公司后，所有公司成员都将被设置为非活动状态。
+ID,ID
+Reseller ID,经销商ID
+Comment,评论
+ZIP,邮政编码
+Customer Group,客户群
+Company Admin,公司管理员
+Gender,性别
+Set Inactive,设置为非活动状态
+Customer Type,客户类型
+"Are you sure you want to temporarily disable this company account? If you confirm, login for all company members will be blocked.",您确认要暂时禁用此公司帐户吗？如果您确认，所有公司成员的登录将被阻止。
+"Are you sure you want to set this company to active? If you confirm, the company members will be able to operate within their company account.>",是否确认将此公司设置为“活动状态”？如果您确认，公司成员将能够在其公司帐户内进行操作。>
+"Are you sure you want to reject this company? If you confirm, login for all company members will be blocked.",您确认要拒绝此公司吗？如果您确认，所有公司成员的登录将被阻止。
+Please specify the reason,请说明原因
+The reason will appear in the 'Rejected' email sent to the Company Admin. It will also be saved and displayed in Admin Panel (in the company profile).,原因将显示在发送给公司管理员的“已拒绝”电子邮件中。同时将被保存并显示在管理面板（公司简介）。
+"Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.",是否确实要冻结此公司？如果您继续，公司成员将无法下订单。
+Reason for Rejection,拒绝原因
+VAT / TAX ID,增值税/税号
+Website,网站
+Prefix,前缀
+First Name,名
+Middle Name/Initial,中间名
+Last Name,姓
+Suffix,后缀
+Send Welcome Email From,发送欢迎电子邮件自
+Advanced Settings,高级设置
+Change Customer Group?,是否更改客户群？
+This action will change the customer group for all members of this company. Would you like to proceed?,此操作将更改此公司所有成员的客户组。您要继续吗？
+The user <%- username %> is the company admin and cannot be set to inactive. You must set another user as the company admin first.,用户<%-username%>是公司管理员，不能设置为非活动状态。您必须先将另一位用户设置为公司管理员。
+Customer Active,客户活动
+"This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.",此客户是其它公司的用户。如果继续，客户将与当前公司解除关联，并重新关联到所选公司。
+Change Company?,更改公司？
+Associate to Company,关联到公司
+My Orders,我的订单
+Create New Customer,创建新客户
+Create New Company Account,创建新的公司帐户
+Name,名字
+Role,角色
+Team,团队
+Users,用户
