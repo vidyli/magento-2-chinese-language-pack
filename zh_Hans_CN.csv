@@ -16094,7 +16094,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Remove item","删除项目",module,Magento_Wishlist
 "Add to Compare","添加并比较",module,Magento_Wishlist
 "This Wish List has no Items","这愿望清单已没有项目",module,Magento_Wishlist
-"%1 has been added to your Wish List.","成功添加%1$s 到您的收藏夹",module,Magento_Wishlist
+"%1 has been added to your Wish List.","成功添加%1到您的收藏夹",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","单击 <a href=""%1""> 此处</a> 继续购物。",module,Magento_Wishlist
 "See Details","查看具体信息",module,Magento_Wishlist
 "Options Details","选项详细信息",module,Magento_Wishlist
