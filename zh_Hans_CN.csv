@@ -143,7 +143,7 @@
 "Availability: Out of stock.","库存：缺货。",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","您想要的超出我们的存量。",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","您添加的数量已经超出购物车",module,Magento_AdvancedCheckout
-"You need to choose options for your item.","您需要为您的项目选择选项。",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","您需要为您的商品选择选项。",module,Magento_AdvancedCheckout
 "We can't add the item to your cart.","您不能添加此产品到您的购物车",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","请在""数量""字段中输入的实际数字。",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","本产品已分配给另一个网站。",module,Magento_AdvancedCheckout
@@ -1935,8 +1935,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "You cleared the comparison list.","你清除了比较列表。",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","清除比较列表出错。",module,Magento_Catalog
 "You removed product %1 from the comparison list.","您从比较列表中删除产品 %1。",module,Magento_Catalog
-"1 item","产品 %1",module,Magento_Catalog
-"%1 items","%1 项目",module,Magento_Catalog
+"1 item","1件产品",module,Magento_Catalog
+"%1 items","%1件产品",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","你确定你想要从你比较产品列表中删除此项目？",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","您确定要从比较产品列表中删除所有项目吗？",module,Magento_Catalog
 "Invalid attribute %1","无效属性 %1",module,Magento_Catalog
@@ -2305,11 +2305,11 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Add to Compare","添加并比较",module,Magento_Catalog
 "We found other products you might like!","我们发现你可能会喜欢其他产品!",module,Magento_Catalog
 "More Choices:","更多的选择:",module,Magento_Catalog
-"Check items to add to the cart or","检查物品添加到购物车或",module,Magento_Catalog
+"Check items to add to the cart or","选中要添加到购物车的商品或",module,Magento_Catalog
 "select all","全选",module,Magento_Catalog
-"Items %1-%2 of %3","项目 %1%2 的 %3",module,Magento_Catalog
-"%1 Item","%1 项目",module,Magento_Catalog
-"%1 Items","%1 项目",module,Magento_Catalog
+"Items %1-%2 of %3","商品%1-%2（共%3个）",module,Magento_Catalog
+"%1 Item","%1个商品",module,Magento_Catalog
+"%1 Items","%1个商品",module,Magento_Catalog
 "Show","显示",module,Magento_Catalog
 "per page","每页",module,Magento_Catalog
 "Sort By","按排序",module,Magento_Catalog
@@ -3209,8 +3209,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Country","国家",module,Magento_Checkout
 "State/Province","州/省",module,Magento_Checkout
 "Zip/Postal Code","邮编",module,Magento_Checkout
-"My Cart (1 item)","我的购物车 (1 项)",module,Magento_Checkout
-"My Cart (%1 items)","我的购物车 (%1 项目)",module,Magento_Checkout
+"My Cart (1 item)","我的购物车 (1件商品)",module,Magento_Checkout
+"My Cart (%1 items)","我的购物车 (%1商品)",module,Magento_Checkout
 "My Cart","我的购物车",module,Magento_Checkout
 "For delivery questions.","为交货问题。",module,Magento_Checkout
 "Customer is already registered","客户已注册",module,Magento_Checkout
@@ -4425,7 +4425,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "Product with id ""%1"" does not contain required attribute ""%2"".","id为“%1”的产品不包含必需的属性“%2”。",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","产品""%1""和 %2 有相同的属性值集。",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","无法将该项目添加到购物车。",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","您需要为您的项目选择选项。",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","您需要为您的商品选择选项。",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","一些产品变化字段是无效的。",module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","配置必须具有指定的属性",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","类型 %1 不是 %2 的实例",module,Magento_ConfigurableProduct
@@ -5134,7 +5134,7 @@ new products will be created. Use this step to customize images and price for yo
 "Are you sure you want to do this?","您确认要这么做么？",module,Magento_Customer
 "Are you sure you want to delete this address?","是否确实要删除此地址?",module,Magento_Customer
 "Weak","弱",module,Magento_Customer
-"Medium","介质",module,Magento_Customer
+"Medium","中等",module,Magento_Customer
 "Strong","强",module,Magento_Customer
 "Very Strong","很强",module,Magento_Customer
 "Guest checkout is disabled.","禁用了来宾结帐。",module,Magento_Customer
@@ -7011,7 +7011,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Delete Attribute","删除属性",module,Magento_GiftRegistry
 "Use Default Value","使用默认值",module,Magento_GiftRegistry
 "Short","短",module,Magento_GiftRegistry
-"Medium","介质",module,Magento_GiftRegistry
+"Medium","中等",module,Magento_GiftRegistry
 "Long","长",module,Magento_GiftRegistry
 "Full","全",module,Magento_GiftRegistry
 "Add New Option","添加新选项",module,Magento_GiftRegistry
@@ -8199,7 +8199,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Customer's Wish List Report","客户的收藏列表报告",module,Magento_MultipleWishlist
 "My Wish Lists","我的收藏清单",module,Magento_MultipleWishlist
 "1 item in wish list","收藏清单中的 1 项",module,Magento_MultipleWishlist
-"%1 items in wish list","%1 收藏列表中的项目",module,Magento_MultipleWishlist
+"%1 items in wish list","收藏夹有%1件商品",module,Magento_MultipleWishlist
 "Wish List Search","收藏列表搜索",module,Magento_MultipleWishlist
 "Select Search Type","快速搜索表单类型",module,Magento_MultipleWishlist
 "Reports","报告",module,Magento_MultipleWishlist
@@ -8213,10 +8213,10 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 """%1"" is already present in %2.","""%1""已存在于 %2。",module,Magento_MultipleWishlist
 "We can't copy ""%1"".","我们不能复制""%1""。",module,Magento_MultipleWishlist
 "We can't copy the wish list item.","我们不能移动的收藏列表项。",module,Magento_MultipleWishlist
-"We can't find %1 items.","我们找不到 %1 项目。",module,Magento_MultipleWishlist
-"We can't copy %1 items.","我们不能复制 %1 项目。",module,Magento_MultipleWishlist
+"We can't find %1 items.","我们找不到商品%1。",module,Magento_MultipleWishlist
+"We can't copy %1 items.","我们不能复制商品%1。",module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","%1 项目目前已经在 %2: %3。",module,Magento_MultipleWishlist
-"%1 items were copied to %2: %3.","%1 项目已被复制到 %2: %3。",module,Magento_MultipleWishlist
+"%1 items were copied to %2: %3.","%1 商品已被复制到 %2: %3。",module,Magento_MultipleWishlist
 "You can't delete the default wish list.","您不能删除默认的收藏列表。",module,Magento_MultipleWishlist
 "Wish List ""%1"" has been deleted.","收藏清单""%1""已被删除。",module,Magento_MultipleWishlist
 "We can't delete the wish list right now.","我们现在不能删除收藏清单。",module,Magento_MultipleWishlist
@@ -8227,7 +8227,6 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "%1 items cannot be moved: %2.","无法移动 %1 项目: %2。",module,Magento_MultipleWishlist
 "We can't move %1 items.","我们不能移动 %1 项目。",module,Magento_MultipleWishlist
 "%1 items were moved to %2: %3.","%1 项目被移动到 %2: %3。",module,Magento_MultipleWishlist
-"%1 for ""%2""","""%2""%1",module,Magento_MultipleWishlist
 "We can't add the item to shopping cart.","我们不能将该项目添加到购物车。",module,Magento_MultipleWishlist
 "We can't add the following product(s) to shopping cart: %1.","我们不能向购物车添加以下产品: %1。",module,Magento_MultipleWishlist
 "Product(s) %1 have required options. Each product can only be added individually.","产品 %1 具有所需的选项。每个产品只能单独添加。",module,Magento_MultipleWishlist
@@ -9960,7 +9959,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Horizontal","Horizontal",module,Magento_Paypal
 "Pill","Pill",module,Magento_Paypal
 "Rectangle","Rectangle",module,Magento_Paypal
-"Medium","介质",module,Magento_Paypal
+"Medium","中等",module,Magento_Paypal
 "Large","大",module,Magento_Paypal
 "Responsive","Responsive",module,Magento_Paypal
 "Checkout","结帐",module,Magento_Paypal
@@ -11101,7 +11100,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You saved the rating.","你保存的评级。",module,Magento_Review
 "My Product Reviews","我的产品评论",module,Magento_Review
 "Cannot initialize product","无法初始化产品",module,Magento_Review
-"You submitted your review for moderation.","你提交了你的审核报告。",module,Magento_Review
+"You submitted your review for moderation.","你提交了你的评论。",module,Magento_Review
 "We can't post your review right now.","我们现在不能发表您的评论。",module,Magento_Review
 "Storage key was not set","未设置存储键",module,Magento_Review
 "Approved","已批准",module,Magento_Review
@@ -11134,7 +11133,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Your Rating","您的评级",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","概览",module,Magento_Review
-"Submit Review","提交的评论",module,Magento_Review
+"Submit Review","提交评论",module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","只有注册的用户才可以写评论。请 <a href=""%1""> 登录</a> 或 <a href=""%2""> 创建帐户</a>",module,Magento_Review
 "Add Your Review","添加您的评论",module,Magento_Review
 "%1 Review(s)","%1 请稍后再试",module,Magento_Review
@@ -16048,8 +16047,11 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "We can't update your Wish List right now.","我们现在无法更新您的期望列表。",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","请求的愿望列表不存在。",module,Magento_Wishlist
 "We can't create the Wish List right now.","我们不能创造收藏清单现在。",module,Magento_Wishlist
-"%1 items","%1 项目",module,Magento_Wishlist
-"1 item","产品 %1",module,Magento_Wishlist
+"%1 items","%1件商品",module,Magento_Wishlist
+"%1 Views","%1条评论",module,Magento_Review
+"%1 View","%1条评论",module,Magento_Review
+"Views %1 to %2 of %3 total","评论的 %1条 - %2条（共%3条）",module,Magento_Review
+"1 item","1件商品",module,Magento_Wishlist
 "Comment","评论",module,Magento_Wishlist
 "Display number of items in wish list","在愿望清单中显示项目的数",module,Magento_Wishlist
 "Display item quantities","显示物料数量",module,Magento_Wishlist
@@ -16058,7 +16060,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Cannot specify product.","不能指定产品。",module,Magento_Wishlist
 "Product is not salable.","产品不是畅销的。",module,Magento_Wishlist
 "Invalid item option format.","无效的项目选项的格式。",module,Magento_Wishlist
-"%1 for ""%2"".","%1 为""%2""的。",module,Magento_Wishlist
+"%1 for ""%2"".","%1为商品""%2""",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","我们这个项目不能添加到您的购物车现在。",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","我们不能将下面的产品添加到购物车: %1。",module,Magento_Wishlist
 "We can't update the Wish List right now.","我们现在不能更新愿望清单。",module,Magento_Wishlist
