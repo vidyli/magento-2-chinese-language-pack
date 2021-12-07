@@ -6984,7 +6984,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Action","操作",module,Magento_GiftRegistry
 "Update Quantity","更新数量",module,Magento_GiftRegistry
 "Remove Item","删除项目",module,Magento_GiftRegistry
-"Sharing Information","该产品缺货",module,Magento_GiftRegistry
+"Sharing Information","分享信息",module,Magento_GiftRegistry
 "Emails","电子邮件",module,Magento_GiftRegistry
 "Send From","发送自",module,Magento_GiftRegistry
 "Message","信息",module,Magento_GiftRegistry
@@ -16106,7 +16106,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Back","返回",module,Magento_Wishlist
 "Wish List is empty now.","现在的愿望列表是空的。",module,Magento_Wishlist
 "* Required Fields","*必要字段",module,Magento_Wishlist
-"Sharing Information","该产品缺货",module,Magento_Wishlist
+"Sharing Information","分享信息",module,Magento_Wishlist
 "Email addresses, separated by commas","以逗号分隔的电子邮件地址",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","查看这里，链接RSS提要到你的愿望列表。",module,Magento_Wishlist
 "Last Added Items","最后添加的项",module,Magento_Wishlist
