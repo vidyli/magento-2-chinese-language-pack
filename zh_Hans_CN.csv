@@ -348,7 +348,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Something went wrong while processing the request.","在处理请求时出现了问题。",module,Magento_AsynchronousOperations
 "Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
 "Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
-"%1 item(s) are currently being updated.","目前正在更新的项目 （%1）。",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","目前正在更新项目 （%1）。",module,Magento_AsynchronousOperations
 "Task ""%1"": ","""%1""的任务︰ ",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 项目已定于更新。",module,Magento_AsynchronousOperations
 "%1 item(s) have been successfully updated.","%1 项目已成功更新。",module,Magento_AsynchronousOperations
@@ -371,7 +371,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Start Time","平率",module,Magento_AsynchronousOperations
 "Items to Retry","项目以重试",module,Magento_AsynchronousOperations
 "To retry, select the items and click “Retry”.","要重试，请选中该项目并单击""重试""。",module,Magento_AsynchronousOperations
-"Items That Can’t Be Updated.","不能更新的项目。",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.","不能更新项目。",module,Magento_AsynchronousOperations
 "ID","编号ID",module,Magento_AsynchronousOperations
 "Status","状态",module,Magento_AsynchronousOperations
 "Meta Information","Meta 信息",module,Magento_AsynchronousOperations
@@ -1422,7 +1422,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "We can't place the order.","我们不能下订单。",module,Magento_Braintree
 "Incorrect payment method.","不正确的支付方式。",module,Magento_Braintree
 "We can't initialize checkout review.","我们不能初始化校验审查。",module,Magento_Braintree
-"We can't update shipping method.","我们不能更新的运输方法。",module,Magento_Braintree
+"We can't update shipping method.","我们不能更新运输方法。",module,Magento_Braintree
 "The processor declined your transaction, please re-enter your payment information","处理器拒绝您的交易，请重新输入您的付款信息",module,Magento_Braintree
 "Transaction declined by gateway: Check card details or try another card","交易被网关拒绝: 检查卡的详细资料，或尝试另一张卡",module,Magento_Braintree
 "Transaction declined: ","交易被拒绝: ",module,Magento_Braintree
@@ -1889,7 +1889,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Please select products for attributes update.","请选择产品更新属性。",module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","请务必定义所有加工产品的 SKU 值。",module,Magento_Catalog
 "A total of %1 record(s) were updated.","更新记录 %1",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.","在更新的产品属性时出现错误。",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.","在更新产品属性时出现错误。",module,Magento_Catalog
 "Unable to add attribute","无法添加属性",module,Magento_Catalog
 "Please, specify attributes","请指定属性",module,Magento_Catalog
 "Catalog","目录",module,Magento_Catalog
@@ -1903,7 +1903,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "An attribute set named '%1' already exists.","属性集，名为""%1""已经存在。",module,Magento_Catalog
 "Something went wrong while saving the attribute.","在保存属性时出现了问题。",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","属性代码""%1""不合法。该字段只能使用字母 (a-z)，数字 (0-9) 或下划线(_)，第一个字符应该是字母。",module,Magento_Catalog
-"We can't update the attribute.","我们不能更新的属性。",module,Magento_Catalog
+"We can't update the attribute.","我们不能更新属性。",module,Magento_Catalog
 "You saved the product attribute.","你保存的产品属性。",module,Magento_Catalog
 "An attribute with this code already exists.","这段代码的属性已经存在。",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","已经存在具有相同的代码 (%1) 的属性。",module,Magento_Catalog
@@ -2193,7 +2193,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Remove","删除",module,Magento_Catalog
 "Thumbnail","缩略图",module,Magento_Catalog
 "Actions","动作",module,Magento_Catalog
-"Schedule Update From","计划更新的",module,Magento_Catalog
+"Schedule Update From","计划更新",module,Magento_Catalog
 "Product in Websites","网站上的产品",module,Magento_Catalog
 "If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.",",module,Magento_Catalog
 如果你的Magento安装有多个网站，你可以编辑范围使用产品的特定位置。 ",module,Magento_Catalog
@@ -2900,7 +2900,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "SKU","商品编号SKU",module,Magento_CatalogRule
 "Product","产品",module,Magento_CatalogRule
 "Promotions","促销活动",module,Magento_CatalogRule
-"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我们发现不适用的更新的规则。请单击""应用规则""来更新您的目录。",module,Magento_CatalogRule
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我们发现不适用的更新规则。请单击""应用规则""来更新您的目录。",module,Magento_CatalogRule
 "We can't apply the rules.","我们不能应用的规则。",module,Magento_CatalogRule
 "You deleted the rule.","规则已保存。",module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.","我们现在不能删除该规则。请查看日志并再试一次。",module,Magento_CatalogRule
@@ -2935,7 +2935,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Adjust final price to discount value","调整最终价格以价值大打折扣",module,Magento_CatalogRule
 "Conditions Combination","条件组合",module,Magento_CatalogRule
 "Product Attribute","产品属性",module,Magento_CatalogRule
-"Updated rules applied.","应用的更新的规则。",module,Magento_CatalogRule
+"Updated rules applied.","应用的更新规则。",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","根据“%2”属性，您禁用了%1的目录价格规则。",module,Magento_CatalogRule
 "Catalog Rule Product","目录规则产品",module,Magento_CatalogRule
 "Indexed rule/product association","索引产品/规则关联",module,Magento_CatalogRule
@@ -3019,7 +3019,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "End Time","结束时间",module,Magento_CatalogRuleStaging
 "Catalog Price Rules","目录价格规则。",module,Magento_CatalogRuleStaging
 "Remove Catalog Price Rule from Campaign","从运动中删除目录价格规则",module,Magento_CatalogRuleStaging
-"Future Update End Time cannot be equal or earlier than Start Time.","将更新的结束时间不能等于或早于开始时间。",module,Magento_CatalogRuleStaging
+"Future Update End Time cannot be equal or earlier than Start Time.","将更新结束时间不能等于或早于开始时间。",module,Magento_CatalogRuleStaging
 "Move to Another Campaign","移到另一个促销活动",module,Magento_CatalogRuleStaging
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","此更新将删除目录价格规则从这场运动和预定的所有更改将都会丢失。",module,Magento_CatalogRuleStaging
 "Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CatalogRuleStaging
@@ -4858,9 +4858,9 @@ new products will be created. Use this step to customize images and price for yo
 "Please enter a new password.","请输入一个新密码。",module,Magento_Customer
 "You updated your password.","您更新您的密码。",module,Magento_Customer
 "Something went wrong while saving the new password.","保存新密码时出了错。",module,Magento_Customer
-"You deleted the address.","你删除地址。",module,Magento_Customer
+"You deleted the address.","你已成功删除地址。",module,Magento_Customer
 "We can't delete the address right now.","我们现在不能删除该地址。",module,Magento_Customer
-"You saved the address.","你保存的地址。",module,Magento_Customer
+"You saved the address.","你已成功保存地址。",module,Magento_Customer
 "We can't save the address.","我们不能保存地址。",module,Magento_Customer
 "No customer ID defined.","没有定义的客户 ID。",module,Magento_Customer
 "Please correct the quote items and try again.","请更正报价项目，再试一次。",module,Magento_Customer
@@ -7105,7 +7105,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Please enter a valid invitee email address.","请输入一个有效的邀请的电子邮件地址。",module,Magento_GiftRegistry
 "Please enter an invitee name.","请输入邀者的姓名。",module,Magento_GiftRegistry
 "You shared the gift registry for %1 emails.","你分享礼物登记处为 %1 的电子邮件。",module,Magento_GiftRegistry
-"We couldn't share the registry.","我们不能分享的注册表。",module,Magento_GiftRegistry
+"We couldn't share the registry.","我们不能分享注册表。",module,Magento_GiftRegistry
 "Private","私人",module,Magento_GiftRegistry
 "Inactive","未激活",module,Magento_GiftRegistry
 "Active","活动",module,Magento_GiftRegistry
@@ -7309,7 +7309,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "You have not uploaded the image.","你不上传的图像。",module,Magento_GiftWrapping
 "You saved the gift wrapping.","你保存礼品包装。",module,Magento_GiftWrapping
 "We can't save the gift wrapping right now.","我们无法保存现在包装的礼物。",module,Magento_GiftWrapping
-"We can't update the image right now.","我们现在不能更新的图像。",module,Magento_GiftWrapping
+"We can't update the image right now.","我们现在不能更新图像。",module,Magento_GiftWrapping
 "Please select","请选择",module,Magento_GiftWrapping
 "Excluding Tax","包含和不包含税",module,Magento_GiftWrapping
 "Including Tax","包括税",module,Magento_GiftWrapping
@@ -7613,7 +7613,7 @@ e.g. var/export, var/import, var/export/some/dir","对于""本地服务器""类�
 "%1 index is locked by another reindex process. Skipping.","%1的索引被另一个重新索引过程锁定。正在跳过。",module,Magento_Indexer
 "Index Management","索引管理",module,Magento_Indexer
 "Please select indexers.","请选择索引器。",module,Magento_Indexer
-"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexer(s) 是在""更新的时间表""模式。",module,Magento_Indexer
+"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexer(s) 是在""更新时间表""模式。",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","我们不能改变索引器(s)因为错误而导致的模式。",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indexer(s) 是在""存储更新""模式。",module,Magento_Indexer
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","一个或多个 <a href=""%1""> 索引器无效</a>。请确保你的 <a href=""%2""target=""_blank""> Magento cron 作业</a> 正在运行。",module,Magento_Indexer
@@ -9337,7 +9337,7 @@ If field is empty default value localhost will be saved.","IPs 的访问列表�
 "Please agree to all the terms and conditions before placing the order.","请在下订单前同意所有的条款和条件。",module,Magento_Paypal
 "We can't process Express Checkout approval.","我们不能处理快速结账审批。",module,Magento_Paypal
 "We can't initialize Express Checkout review.","我们不能初始化快速结账审查。",module,Magento_Paypal
-"We can't update shipping method.","我们不能更新的运输方法。",module,Magento_Paypal
+"We can't update shipping method.","我们不能更新运输方法。",module,Magento_Paypal
 "We can't start Express Checkout.","我们不能开始快速结账。",module,Magento_Paypal
 "To check out, please sign in with your email address.","要签出，请使用您的电子邮件地址登录。",module,Magento_Paypal
 "Sorry, but something went wrong","对不起，但事情出了错",module,Magento_Paypal
@@ -11270,7 +11270,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Refer to reward points history to see when a specific record expires.","参看奖励点历史，请参阅特定记录过期时。",module,Magento_Reward
 "Email Notification Settings","电子邮件通知设置",module,Magento_Reward
 "Save Subscription Settings","保存订阅设置",module,Magento_Reward
-"Reward Points Balance Updated at %store_name","积分在 %store_name 更新的平衡",module,Magento_Reward
+"Reward Points Balance Updated at %store_name","积分在 %store_name 更新余额",module,Magento_Reward
 "%name,","%名称，",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","你有可能在我们的商店使用的 %points_balance 点:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","从这些通知 <a href=""%unsubscription_url""> 取消订阅</a>。",module,Magento_Reward
@@ -12391,7 +12391,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product Name","产品名称",module,Magento_Sales
 "Order #","订单 #",module,Magento_Sales
 "Date","日期",module,Magento_Sales
-"Ship To","船到",module,Magento_Sales
+"Ship To","送货到",module,Magento_Sales
 "Actions","动作",module,Magento_Sales
 "View Order","查看订单",module,Magento_Sales
 "You have placed no orders.","你还没有订单。",module,Magento_Sales
@@ -12424,7 +12424,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Billing Info","付费信息",module,Magento_Sales
 "Shipping Info","航运信息",module,Magento_Sales
 "Update to your %store_name credit memo","更新到你 %store_name 贷项通知单",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你订单 #%increment_id 已更新的状态为 <strong>%order_status</strong>。",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你订单 #%increment_id 已更新状态为 <strong>%order_status</strong>。",module,Magento_Sales
 "Invoice for your %store_name order","更新到您的 %store_name 订单",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","为订单 #%order_id 你发票 #%invoice_id",module,Magento_Sales
 "Update to your %store_name invoice","更新到您的 %store_name 发票",module,Magento_Sales
@@ -13777,9 +13777,9 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Date & Time","日期和时间",module,Magento_Staging
 "This update not exists.","此更新不存在。",module,Magento_Staging
 "Content Staging Dashboard","内容分期仪表板",module,Magento_Staging
-"The Start Time of this Update cannot be changed. It's been already started.","无法更改此更新的开始时间。此更新已经运行。",module,Magento_Staging
+"The Start Time of this Update cannot be changed. It's been already started.","无法更改此更新开始时间。此更新已经运行。",module,Magento_Staging
 "Future Update in this time range already exists.,module,Magento_Staging
-Select a different range to add a new Future Update.","这个未来更新的时间范围已经存在。,module,Magento_Staging
+Select a different range to add a new Future Update.","这个未来更新时间范围已经存在。,module,Magento_Staging
 选择一个不同的范围来添加新的未来更新。",module,Magento_Staging
 "Cannot save Update.","无法保存更新。",module,Magento_Staging
 "Edit Existing Update","编辑现有的更新",module,Magento_Staging
@@ -13811,7 +13811,7 @@ Select a different range to add a new Future Update.","这个未来更新的时�
 "Please select Name for Future Update.","请为将来更新选择名称。",module,Magento_Staging
 "Please select Start Time for Future Update.","请选择开始时间以便将来更新。",module,Magento_Staging
 "Future Update Start Time cannot be earlier than current time.","未来的更新起始时间不能早于当前时间。",module,Magento_Staging
-"Future Update End Time cannot be equal or earlier than Start Time.","将更新的结束时间不能等于或早于开始时间。",module,Magento_Staging
+"Future Update End Time cannot be equal or earlier than Start Time.","将更新结束时间不能等于或早于开始时间。",module,Magento_Staging
 "Future Update End Time cannot be earlier than current time.","未来更新结束时间不能早于当前时间。",module,Magento_Staging
 "Update with id ""%1"" does not exist.","ID为“% 1”的更新不存在。",module,Magento_Staging
 "Active update can not be deleted","不能删除活动更新",module,Magento_Staging
@@ -14656,9 +14656,9 @@ than a customer might expect. ","警告税折扣配置可能会导致不同的�
 "Local Storage seems to be disabled in your browser.","本地存储似乎在您的浏览器中被禁用。",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","为了您在我们网站能获得最好的体验，建议在您的浏览器中打开本地储存。",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","这是演示店铺。没有订单将会完成。",module,Magento_Theme
-"Items %1 to %2 of %3 total","项目% 1到% 2 % 3总数",module,Magento_Theme
-"%1 Item","%1 项目",module,Magento_Theme
-"%1 Item(s)","%1 项目 (s)",module,Magento_Theme
+"Items %1 to %2 of %3 total","%1- %2共%3个",module,Magento_Theme
+"%1 Item","%1个",module,Magento_Theme
+"%1 Item(s)","%1个(s)",module,Magento_Theme
 "Page","页面",module,Magento_Theme
 "Previous","前一页",module,Magento_Theme
 "You're currently reading page","您当前正在阅读页",module,Magento_Theme
@@ -16042,7 +16042,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Your wish list has been shared.","已共享您的期望列表。",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","我们现在不能从愿望列表中删除项目。",module,Magento_Wishlist
 "Can't save description %1","无法保存描述 %1",module,Magento_Wishlist
-"Can't update wish list","不能更新的愿望清单",module,Magento_Wishlist
+"Can't update wish list","不能更新愿望清单",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 已更新您的愿望列表中。",module,Magento_Wishlist
 "We can't update your Wish List right now.","我们现在无法更新您的期望列表。",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","请求的愿望列表不存在。",module,Magento_Wishlist
@@ -16080,9 +16080,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to remove this item?","你确定要删除这个项目吗？",module,Magento_Wishlist
 "Special Price","特殊价格",module,Magento_Wishlist
 "Regular Price","常规价格",module,Magento_Wishlist
-"Share Wish List","分享的愿望清单",module,Magento_Wishlist
+"Share Wish List","分享愿望清单",module,Magento_Wishlist
 "Add All to Cart","全部添加到购物车",module,Magento_Wishlist
-"Update Wish List","更新的愿望清单",module,Magento_Wishlist
+"Update Wish List","更新愿望清单",module,Magento_Wishlist
 "Move to Wishlist","移动到收藏",module,Magento_Wishlist
 "Add to Wish List","添加到收藏夹",module,Magento_Wishlist
 "View Product","查看产品",module,Magento_Wishlist
@@ -16257,7 +16257,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Payment Method","支付方式",theme,frontend/Magento/luma
 "Shipping Method","运送方式",theme,frontend/Magento/luma
 "Update to your %store_name credit memo","更新到你 %store_name 贷项通知单",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你订单 #%increment_id 已更新的状态为 <strong>%order_status</strong>。",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你订单 #%increment_id 已更新状态为 <strong>%order_status</strong>。",theme,frontend/Magento/luma
 "Invoice for your %store_name order","更新到您的 %store_name 订单",theme,frontend/Magento/luma
 "Your Invoice #%invoice_id for Order #%order_id","为订单 #%order_id 你发票 #%invoice_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","更新到您的 %store_name 发票",theme,frontend/Magento/luma
