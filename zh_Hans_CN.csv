@@ -4842,7 +4842,7 @@ new products will be created. Use this step to customize images and price for yo
 ",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","如果你是一个注册的增值税客户，请在这里输入“% 1”>，以进入你的账单地址，以进行适当的增值税计算。",module,Magento_Customer
 "Account Information","账户信息",module,Magento_Customer
-"You saved the account information.","你保存的帐户信息。",module,Magento_Customer
+"You saved the account information.","你已成功保存账户信息。",module,Magento_Customer
 "You did not sign in correctly or your account is temporarily disabled.","您没有正确地登录，或者您的帐号被暂时关闭了。",module,Magento_Customer
 "Password confirmation doesn't match entered password.","确认密码与输入的密码不匹配。",module,Magento_Customer
 "The password doesn't match this account.","密码不匹配此帐户。",module,Magento_Customer
@@ -9068,9 +9068,9 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Store","商店",module,Magento_Newsletter
 "Store View","商店界面",module,Magento_Newsletter
 "Newsletter Subscriptions","订阅",module,Magento_Newsletter
-"We have saved your subscription.","We have saved your subscription.",module,Magento_Newsletter
+"We have saved your subscription.","你已成功订阅",module,Magento_Newsletter
 "A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
-"We have removed your newsletter subscription.","We have removed your newsletter subscription.",module,Magento_Newsletter
+"We have removed your newsletter subscription.","你已取消订阅",module,Magento_Newsletter
 "We have updated your subscription.","We have updated your subscription.",module,Magento_Newsletter
 "General Options","一般选择",module,Magento_Newsletter
 "Enabled","启动",module,Magento_Newsletter
@@ -16043,7 +16043,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "We can't delete item from Wish List right now.","我们现在不能从愿望列表中删除项目。",module,Magento_Wishlist
 "Can't save description %1","无法保存描述 %1",module,Magento_Wishlist
 "Can't update wish list","不能更新愿望清单",module,Magento_Wishlist
-"%1 has been updated in your Wish List.","%1 已更新您的愿望列表中。",module,Magento_Wishlist
+"%1 has been updated in your Wish List.","您已成功更新愿望清单。",module,Magento_Wishlist
 "We can't update your Wish List right now.","我们现在无法更新您的期望列表。",module,Magento_Wishlist
 "The requested Wish List doesn't exist.","请求的愿望列表不存在。",module,Magento_Wishlist
 "We can't create the Wish List right now.","我们不能创造收藏清单现在。",module,Magento_Wishlist
