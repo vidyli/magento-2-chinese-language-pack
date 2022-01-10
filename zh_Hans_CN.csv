@@ -16812,3 +16812,30 @@ Name,名字
 Role,角色
 Team,团队
 Users,用户
+"1 item","1件商品"
+"%1 items","%1件商品"
+"%1 Views","%1条评论",module,Magento_Review
+"%1 View","%1条评论",module,Magento_Review
+"Views %1 to %2 of %3 total","评论的 %1条 - %2条（共%3条）",module,Magento_Review
+"You added product %1 to the <a href=""%2"">comparison list</a>.","你已添加商品%1到对比列表。"
+"Items %1 to %2 of %3 total","商品%1到%2(总数%3)",module,Magento_Theme
+"%1 for ""%2"".","您需要为""%2""选择具体选项和数量"
+"You added %1 to your <a href=""%2"">shopping cart</a>.","您已添加""%1""进购物车。"
+"%1 product(s) have been added to shopping cart: %2.","您已成功添加%1件商品到购物车",module,Magento_Wishlist
+"Sharing Information","分享信息"
+"%1 Item","%1个",module,Magento_Theme
+"%1 Item(s)","%1个",module,Magento_Theme
+"We have updated your subscription.","你已成功订阅",module,Magento_Newsletter
+"We have saved your subscription.","你已成功订阅",module,Magento_Newsletter
+"We have removed your newsletter subscription.","你已取消订阅",module,Magento_Newsletter
+"You saved the account information.","你已成功保存账户信息。",module,Magento_Customer
+"%1 has been updated in your Wish List.","您已成功更新愿望清单。",module,Magento_Wishlist
+"You are signed out.","你已成功退出"
+"You are signed out","你已成功退出"
+"Default Billing Address","默认账单地址",module,Magento_Customer
+"Your wish list has been shared.","已成功分享您的愿望清单。",module,Magento_Wishlist
+"%1 has been removed from your Wish List.","%1已被移出愿望清单"
+"You used coupon code ""%1"".","优惠券""%1""使用成功。"
+"You canceled the coupon code.","你已取消使用优惠券。"
+"We cannot apply the coupon code.","优惠券无效。"
+"Thank you for registering with %1.","感谢您注册 %1。"
