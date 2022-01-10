@@ -165,10 +165,10 @@
 "The file is corrupt.","该文件已损坏。",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","请上传 .csv 格式的文件。",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 项目需要您的关注。",module,Magento_AdvancedCheckout
-"Apply Coupon Code","适用的优惠券代码",module,Magento_AdvancedCheckout
-"Remove Coupon Code","删除优惠券代码",module,Magento_AdvancedCheckout
+"Apply Coupon Code","适用的优惠券",module,Magento_AdvancedCheckout
+"Remove Coupon Code","删除优惠券",module,Magento_AdvancedCheckout
 "Remove","删除",module,Magento_AdvancedCheckout
-"The coupon code ""%1"" is not valid.","优惠券代码""%1""无效。",module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","优惠券""%1""无效。",module,Magento_AdvancedCheckout
 "Shopping Cart Items","购物车里的产品",module,Magento_AdvancedCheckout
 "Qty","数量",module,Magento_AdvancedCheckout
 "Subtotal","小计",module,Magento_AdvancedCheckout
@@ -3221,10 +3221,10 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Out of stock","缺货",module,Magento_Checkout
 "We can't find the quote item.","我们找不到引用项。",module,Magento_Checkout
 "We cannot configure the product.","我们不能配置该产品。",module,Magento_Checkout
-"You used coupon code ""%1"".","你使用优惠券代码""%1""。",module,Magento_Checkout
-"The coupon code ""%1"" is not valid.","优惠券代码""%1""无效。",module,Magento_Checkout
-"You canceled the coupon code.","你取消的优惠券代码。",module,Magento_Checkout
-"We cannot apply the coupon code.","我们不能适用的优惠券代码。",module,Magento_Checkout
+"You used coupon code ""%1"".","优惠券""%1""被使用。",module,Magento_Checkout
+"The coupon code ""%1"" is not valid.","优惠券""%1""无效。",module,Magento_Checkout
+"You canceled the coupon code.","你已取消使用优惠券。",module,Magento_Checkout
+"We cannot apply the coupon code.","优惠券无效。",module,Magento_Checkout
 "We can't remove the item.","我们不能删除该项目。",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 已更新您的购物车中。",module,Magento_Checkout
 "We can't update the item right now.","我们现在不能更新该项目。",module,Magento_Checkout
@@ -9527,7 +9527,7 @@ If field is empty default value localhost will be saved.","IPs 的访问列表�
 "Bonus for first ACH Use","第一次的 ACH 使用奖金",module,Magento_Paypal
 "Buyer Credit Payment","买方信贷付款",module,Magento_Paypal
 "Charge-off","撇帐",module,Magento_Paypal
-"Coupon Redemption","优惠券",module,Magento_Paypal
+"Coupon Redemption","赎回优惠券",module,Magento_Paypal
 "Currency Conversion required to cover negative balance","货币转换需要支付负平衡",module,Magento_Paypal
 "Debit Card Cash Back","借记卡卡现金返还",module,Magento_Paypal
 "Debit Card Transaction","借记卡交易",module,Magento_Paypal
@@ -10147,8 +10147,8 @@ Defines the default product price,module,Magento_PricePermissions
 "Unable to save address. Please check input data.","无法保存地址。请检查输入的数据。",module,Magento_Quote
 "Cart %1 doesn't contain products","车%1不包含产品",module,Magento_Quote
 "Could not apply coupon code","无法设置送货方式。 %1",module,Magento_Quote
-"Coupon code is not valid","优惠券代码无效",module,Magento_Quote
-"Could not delete coupon code","无法删除优惠券代码",module,Magento_Quote
+"Coupon code is not valid","优惠券无效",module,Magento_Quote
+"Could not delete coupon code","无法删除优惠券",module,Magento_Quote
 "Cannot assign customer to the given cart. You don't have permission for this operation.","不能将客户分配给给定的购物车。您没有权限执行此操作。",module,Magento_Quote
 "Shipping address is not set","运营商有这样的方法没有发现：%1%2",module,Magento_Quote
 "The requested Payment Method is not available.","付款方法不可用。",module,Magento_Quote
@@ -10544,7 +10544,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Emails Failed","电子邮件失败",module,Magento_Reminder
 "Last Sent","最后发送",module,Magento_Reminder
 "General Information","常规信息",module,Magento_Reminder
-"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","提醒电子邮件可以促进有或没有优惠券的购物车价格规则。如果购物车价格规则定义了自动生成的优惠券，则该提醒规则将为每个客户生成随机优惠券代码。",module,Magento_Reminder
+"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","提醒电子邮件可以促进有或没有优惠券的购物车价格规则。如果购物车价格规则定义了自动生成的优惠券，则该提醒规则将为每个客户生成随机优惠券。",module,Magento_Reminder
 "Rule Name","规则名称",module,Magento_Reminder
 "Description","描述",module,Magento_Reminder
 "Cart Price Rule","购物车价格规则",module,Magento_Reminder
@@ -10767,7 +10767,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Email","邮箱",module,Magento_Reports
 "Products","产品展示",module,Magento_Reports
 "Quantity","数量",module,Magento_Reports
-"Applied Coupon","应用的优惠券",module,Magento_Reports
+"Applied Coupon","已应用的优惠券",module,Magento_Reports
 "Updated","已更新",module,Magento_Reports
 "IP Address","IP 地址",module,Magento_Reports
 "Customers","客户",module,Magento_Reports
@@ -11957,9 +11957,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "We can't update the order address right now.","我们现在不能更新订单地址。",module,Magento_Sales
 "You have not canceled the item.","您还没有取消该项目。",module,Magento_Sales
 "You canceled the order.","你取消订单。",module,Magento_Sales
-"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1""优惠券代码不是适用的。不适用于为项目选择的折扣",module,Magento_Sales
-"""%1"" coupon code is not valid.","""%1""优惠券代码是无效的。",module,Magento_Sales
-"The coupon code has been accepted.","优惠券代码已被接受。",module,Magento_Sales
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1""优惠券不是适用的。不适用于为项目选择的折扣",module,Magento_Sales
+"""%1"" coupon code is not valid.","""%1""优惠券是无效的。",module,Magento_Sales
+"The coupon code has been accepted.","优惠券已被接受。",module,Magento_Sales
 "Quote item id is not received.","报价商品 ID 还没有收到。",module,Magento_Sales
 "Quote item is not loaded.","报价商品没有上架。",module,Magento_Sales
 "New Order","新秩序",module,Magento_Sales
@@ -12261,9 +12261,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Not Notified","不通知",module,Magento_Sales
 "No Payment Methods","没有付款方法",module,Magento_Sales
 "Order Comments","订单的评论",module,Magento_Sales
-"Apply Coupon Code","适用的优惠券代码",module,Magento_Sales
+"Apply Coupon Code","使用优惠券",module,Magento_Sales
 "Apply","应用",module,Magento_Sales
-"Remove Coupon Code","删除优惠券代码",module,Magento_Sales
+"Remove Coupon Code","删除优惠券",module,Magento_Sales
 "Remove","删除",module,Magento_Sales
 "Address Information","地址信息",module,Magento_Sales
 "Payment &amp; Shipping Information","付款和发货信息",module,Magento_Sales
@@ -12708,7 +12708,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Apply To","应用给",module,Magento_SalesRule
 "Conditions","条件",module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","仅在满足以下条件时应用规则 (留空所有产品)。",module,Magento_SalesRule
-"Manage Coupon Codes","管理优惠券代码",module,Magento_SalesRule
+"Manage Coupon Codes","管理优惠券",module,Magento_SalesRule
 "Coupon Qty","优惠券数量",module,Magento_SalesRule
 "Code Length","每x个字符加横线",module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","不包括前缀、 后缀和分隔符。",module,Magento_SalesRule
@@ -12806,7 +12806,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "is one of","小于",module,Magento_SalesRule
 "is not one of","不是的",module,Magento_SalesRule
 "If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","如果选定项目中的 %1 %2 %3 购物车匹配 %4 的这些条件:",module,Magento_SalesRule
-"Percent of product price discount","自动生成的具体优惠券代码",module,Magento_SalesRule
+"Percent of product price discount","自动生成的具体优惠券",module,Magento_SalesRule
 "Fixed amount discount","固定的金额的折扣",module,Magento_SalesRule
 "Fixed amount discount for whole cart","整车的固定的金额折扣",module,Magento_SalesRule
 "Buy X get Y free (discount amount is Y)","买 X 得到 Y 免费 (折扣金额是 Y)",module,Magento_SalesRule
@@ -12824,7 +12824,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Your coupon was successfully removed.","您的优惠券已成功删除。",module,Magento_SalesRule
 "Your coupon was successfully applied.","您的优惠券已成功应用。",module,Magento_SalesRule
 "Promotion","促销",module,Magento_SalesRule
-"Auto Generated Specific Coupon Codes","自动生成特定的优惠券代码",module,Magento_SalesRule
+"Auto Generated Specific Coupon Codes","自动生成特定的优惠券",module,Magento_SalesRule
 "Web Site","网站",module,Magento_SalesRule
 "Priority","优先级",module,Magento_SalesRule
 "Cart Price Rule","购物车价格规则",module,Magento_SalesRule
@@ -12839,7 +12839,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 ",module,Magento_SalesRule
 If you select and save the rule you will be able to generate multiple coupon codes.,module,Magento_SalesRule
 ",",module,Magento_SalesRule
-如果你选择和保存该规则，您将能够生成多个优惠券代码。                ",module,Magento_SalesRule
+如果你选择和保存该规则，您将能够生成多个优惠券。                ",module,Magento_SalesRule
 "Use Auto Generation","使用自动生成",module,Magento_SalesRule
 "Uses per Coupon","每张优惠券的使用",module,Magento_SalesRule
 ",module,Magento_SalesRule
@@ -12865,14 +12865,14 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Coupons Information","优惠券信息",module,Magento_SalesRule
 "Default Label","默认标签",module,Magento_SalesRule
 "General Information","常规信息",module,Magento_SalesRule
-"If you select and save the rule you will be able to generate multiple coupon codes.","如果你选择和保存该规则，您将能够生成多个优惠券代码。",module,Magento_SalesRule
+"If you select and save the rule you will be able to generate multiple coupon codes.","如果你选择和保存该规则，您将能够生成多个优惠券。",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","为执行使用限制登录的客户只。",module,Magento_SalesRule
 "Payment Method","支付方式",module,Magento_SalesRule
 "Your coupon was successfully removed","Your coupon was successfully removed",module,Magento_SalesRule
 "Your coupon was successfully applied","Your coupon was successfully applied",module,Magento_SalesRule
 ",module,Magento_SalesRule
 If you select and save the rule you will be able to generate multiple coupon codes.,module,Magento_SalesRule
-","如果你选择和保存该规则，您将能够生成多个优惠券代码。",module,Magento_SalesRule
+","如果你选择和保存该规则，您将能够生成多个优惠券。",module,Magento_SalesRule
 ",module,Magento_SalesRule
 Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 ","仅限于登录客户的使用限制。",module,Magento_SalesRule
